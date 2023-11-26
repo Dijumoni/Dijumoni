@@ -1,4 +1,4 @@
-![logo](https://github.com/Dijumoni/Dijumoni/blob/main/Background%20cover.png)
+![logo](https://github.com/Dijumoni/Dijumoni/blob/87230b903a6ea63c964119608fdd029b0cc26553/Black%20Minimalist%20Content%20Creator%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Dijumoni Ray</h1>
 <h3 align="center">A tech enthusiast with a passion for learning and developing innovative ideas.</h3>
 
